@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy and Security Policy — Healthcare Planner
+---
+
 # Privacy and Security Policy — Healthcare Planner
 
 **Last updated:** March 2026  
