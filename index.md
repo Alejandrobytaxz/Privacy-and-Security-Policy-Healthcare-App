@@ -109,20 +109,45 @@ If you are in a region with laws like the GDPR, you may also have rights to acce
 
 ---
 
-## 8. How long we keep data
+## 8. Account deletion
+
+You can request the deletion of your account and all associated data at any time. To do so, follow these steps:
+
+1. **Send an email** to **zeroteam.dev.app@gmail.com** from the email address associated with your account (the one you used to sign in with Google).
+2. **Include in your email:**
+   - The subject line: **"Account Deletion Request"**
+   - Your full name as it appears in the app.
+   - A brief confirmation that you want your account and all associated data to be permanently deleted.
+3. **We will verify your identity** by confirming the email matches the account on file.
+4. **Once verified**, we will proceed to delete:
+   - Your profile information (name, age, sex, weight, height, activity level, goals).
+   - Your synced data (weekly plans, recipes, meal photos, notes, reminders, daily logs).
+   - Your Coach AI conversation history.
+   - Any other data linked to your account in our cloud storage.
+5. **You will receive a confirmation email** once the deletion is complete. This process may take up to **30 days** from the date we verify your request.
+
+Please note:
+
+- **Data stored only on your device** (if you never signed in) is not accessible to us; you can remove it by uninstalling the app or clearing the app data in your device settings.
+- Some anonymized or aggregated data that cannot identify you may be retained for analytics or legal purposes.
+- If you have an active premium subscription, canceling your subscription is separate from account deletion. Please cancel your subscription through the Google Play Store or Apple App Store before requesting deletion.
+
+---
+
+## 9. How long we keep data
 
 - **On your device:** until you delete the app or clear its data.
 - **In the cloud:** for as long as your account exists and you do not ask for deletion. We may keep some usage-related data for a limited time where needed for billing or legal reasons.
 
 ---
 
-## 9. Changes to this policy
+## 10. Changes to this policy
 
 We may update this policy from time to time. We will tell you about important changes in the app or by email if you have given us your address. Continued use of the app after the change means you accept the updated policy.
 
 ---
 
-## 10. Contact
+## 11. Contact
 
 For questions about privacy, security, or your rights (access, correction, deletion, etc.):
 
